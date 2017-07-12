@@ -10,7 +10,7 @@ logo:             # filename of a logo image that has been placed into your imag
 owner:
   name: Wei Zhang
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: #"A brief description of yourself."
   email: wei.zhang.gb@gmail.com
   twitter: #username
   facebook: #username
