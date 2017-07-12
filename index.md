@@ -42,8 +42,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * Full tuition scholarship from Beihang University, Sep 2008 to Dec 2014
 * Full tuition scholarship from Yanshan University, Sep 2006 to June 2008
 * Scholarship from Hebei University of Economic and Business, Sep 2002 to Jan 2006
-
-####Travel Awards
+#### Travel Awards
 * Conext Student Travel Grant, Dec 2016
 * SOSP Diversity Workshop Travel Grant, Oct 2015
 * NSDI Travel Grant, May 2015
