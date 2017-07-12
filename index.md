@@ -34,7 +34,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 ## Publications
 #### Conferences, Workshops and Posters
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, submitted.
-* Sameer G Kulkarni, ** Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan, Timothy Wood, Mayutan Arumaithurai and Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, SIGCOMM, 2017.
+* Sameer G Kulkarni, **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan, Timothy Wood, Mayutan Arumaithurai and Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, SIGCOMM, 2017.
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, SOSR Poster, 2017.
 * **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan and Timothy Wood. Flurries: Countless Fine-Grained NFs for Flexible Per-Flow Customization, Conext, 2016.
 * **Wei Zhang**, Guyue Liu, Ali Mohammadkhan , Jinho Hwang, K.K. Ramakrishnan and Timothy Wood. SDNFV: Flexible and Dynamic Software Defined Control of an Application-and Flow-Aware Data Plane. Middleware, 2016.
