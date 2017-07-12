@@ -21,13 +21,13 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * **Research Intern, Futurewei Research lab**, Sep 2016 to Jan 2017
   * High performance and scalable networking platform
   * Mentor: Yan Chen
-* **AT&T Research lab, Cloud Service Group**, June 2016 to Aug 2016
+* **Research Intern, AT&T Research lab, Cloud Service Group**, June 2016 to Aug 2016
   * Towards an OS for the network data plane with FastPaaS
   * Mentor: Abhigyan Sharma
-* **Baidu Infrastructure Group**, Nov 2014 to Jan 2015
+* **R&D Intern, Baidu Infrastructure Group**, Nov 2014 to Jan 2015
   * Improve Openstack Neutron networking performance
   * Mentors: Yi Yang and Ying Wang
-* **Oracle Solaris NIC Group**, July 2012 to Nov 2012
+* **R&D Intern, Oracle Solaris NIC Group**, July 2012 to Nov 2012
   * Learn e1000g, S11 NIC PV driver and test scripts, repeat bugs
   * Mentor: Changqing Li
  
