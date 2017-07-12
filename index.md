@@ -57,7 +57,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * **Wei Zhang**, Mingfa Zhu, Limin Xiao, Ying Song, Yuzhong Sun. Dynamic Resource Management in Virtualized Servers, the 10th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA**), 2012.
 
 #### Journals
-* Timothy Wood , K.K. Ramakrishnan and Jinho Hwang, Guyue Liu and **bf Wei Zhang**. Towards a Software-Based Network: Integrating Software Defined Networking and Network Function Virtualization. **IEEE Network**, 2015.
+* Timothy Wood , K.K. Ramakrishnan and Jinho Hwang, Guyue Liu and **Wei Zhang**. Towards a Software-Based Network: Integrating Software Defined Networking and Network Function Virtualization. **IEEE Network**, 2015.
 * **Wei Zhang**, Sundaresan Rajasekaran, Shaohua Duan, Timothy Wood and Mingfa Zhu. Minimizing Interference and Maximizing Progress for Hadoop Virtual Machines, **ACM SIGMETRICS Performance Evaluation Review**, 2015.
 * **Wei Zhang**, Mingfa Zhu, Li Ruan, Limin Xiao, Jiajun Liu, Yiduo Mei, Ying Song, Yuzhong Sun. SLA-Driven Adaptive Resource Allocation for Virtualized Servers, **IEICE Trans.** On Information & Systems, Special Section on Parallel and Distributed Computing and Networking, 2012.
 * **Wei Zhang**, Ying Song, Li Ruan, Mingfa Zhu, Limin Xiao. Resource Management in Internet-Oriented Data Centers, **Journal of Software**, 23(2):179-199, 2012.
