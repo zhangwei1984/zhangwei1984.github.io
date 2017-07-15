@@ -17,7 +17,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 ## Internships
 * **R&D Intern, VMWare/Nicira NSX Edge team**, Feb 2017 to April 2017
   * High performance edge platform for NSX
-  * Mentor: Xinhua Hong
+  * Mentor: Xinhua Hong and Yong Wang
 * **Research Intern, Futurewei Research lab**, Sep 2016 to Jan 2017
   * High performance and scalable networking platform
   * Mentor: Yan Chen
