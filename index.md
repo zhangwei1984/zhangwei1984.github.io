@@ -8,7 +8,7 @@ I am Wei Zhang, a PhD student at the [George Washington University](http://www.g
 I received my B.S. degree in Human Resource Management from [Hebei University Of Economics & Business](http://www.heuet.edu.cn/) in 2006 and M.S. degree in Computer Science from [Yan Shan University](http://www.ysu.edu.cn/) in 2008. I started my PhD life at [Beihang University](http://www.buaa.edu.cn/) in 2008, advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). From November 2012 to October 2014, I participated in an international PhD program as a visitor student in GWU and joined the PhD program in January 2015. I received PhD degree from Beihang University in June 2015.
 
 
-<span style="color:red">**I am currently having problems with my GW email account. Please use wei.zhang.gb@gmail.com instead.**</span>
+<span style="color:red">**I am currently having problems with my GW email account. Please use wei.zhang.gb@gmail.com  to contact me instead.**</span>
 
 ## Research Interests:
 
