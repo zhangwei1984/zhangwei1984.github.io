@@ -34,7 +34,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Software challenges for persistent fabric-attached memory, **OSDI Poster**, 2018.
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **SOCC Poster**, 2018.
 * **Wei Zhang**, Abhigyan Sharma and Timothy Wood. Model-Based Load Balancing for High Performance Network Data Planes, **NSDI Poster**, 2018.
-* **Wei Zhang**, Timothy Chong, John Byrne, Milind Chabbi, Harumi Kuno, Michael Lough, Nic McDonald, Sriram Narasimnhan, Bill Scherer, Rob Schreiber, Tuan Tran, Lorenzo Martinico, Cindy Orazco, Khemraj Shukla. How to Co-Design Chickens and Eggs:A Simulation Environment for HPE Exascale Hardware, **Tech HP Internal Conference**, 2018.
+* **Wei Zhang**, Timothy Chong, John Byrne, Milind Chabbi, Harumi Kuno, Michael Lough, Nic McDonald, Sriram Narasimnhan, Bill Scherer, Rob Schreiber, Tuan Tran, Lorenzo Martinico, Cindy Orazco, Khemraj Shukla. How to Co-Design Chickens and Eggs: A Simulation Environment for HPE Exascale Hardware, **Tech HP Internal Conference**, 2018.
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. **SOSR**, Los Angeles, CA, Mar.2018.
 * Sameer G Kulkarni, **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan, Timothy Wood, Mayutan Arumaithurai and Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, **SIGCOMM**, 2017.
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, **SOSR Poster**, 2017.
