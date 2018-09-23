@@ -3,40 +3,39 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am Wei Zhang, a PhD student at the [George Washington University](http://www.gwu.edu/). My advisor is [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php).
+I am Wei Zhang, currently a software engineer at Microsoft Azure Networking. 
 
-I received my B.S. degree in Human Resource Management from [Hebei University Of Economics & Business](http://www.heuet.edu.cn/) in 2006 and M.S. degree in Computer Science from [Yan Shan University](http://www.ysu.edu.cn/) in 2008. I started my PhD life at [Beihang University](http://www.buaa.edu.cn/) in 2008, advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). From November 2012 to October 2014, I participated in an international PhD program as a visitor student in GWU and joined the PhD program in January 2015. I received PhD degree from Beihang University in June 2015.
-
-
-<span style="color:red">**I am currently having problems with my GW email account. Please use wei.zhang.gb@gmail.com  to contact me instead.**</span>
+I received my B.S. degree in Human Resource Management from [Hebei University Of Economics & Business](http://www.heuet.edu.cn/) in 2006 and M.S. degree in Computer Science from [Yan Shan University](http://www.ysu.edu.cn/) in 2008. I started my PhD life at [Beihang University](http://www.buaa.edu.cn/) in 2008, advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). From November 2012 to October 2014, I participated in an international PhD program as a visitor student at the [George Washington University](http://www.gwu.edu/) and joined the PhD program in January 2015, advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php). I received PhD degree from Beihang University in June 2015. I received my second Phd degree from GWU university at August 2018.
 
 ## Research Interests:
 
-* Network function virtualization
-* Software defined networking
-* Cloud computing
-* Virtulization technologies
+* Cloud computing and virtualiztion technologies
+* Distributed system
+* Network and storage system
+* Resource disaggregation
 
 ## Internships
+* **Research Intern, HP Labs, System Software Group**, July 2017 to June 2018
+  * Memory disaggregation with fast network through Gen-Z
 * **R&D Intern, VMWare/Nicira NSX Edge team**, Feb 2017 to April 2017
   * High performance edge platform for NSX
-  * Mentors: Xinhua Hong and Yong Wang
 * **Research Intern, Futurewei Research lab**, Sep 2016 to Jan 2017
   * High performance and scalable networking platform
-  * Mentor: Yan Chen
 * **Research Intern, AT&T Research lab, Cloud Service Group**, June 2016 to Aug 2016
   * Towards an OS for the network data plane with FastPaaS
-  * Mentor: Abhigyan Sharma
 * **R&D Intern, Baidu Infrastructure Group**, Nov 2014 to Jan 2015
   * Improve Openstack Neutron networking performance
-  * Mentors: Yi Yang and Ying Wang
 * **R&D Intern, Oracle Solaris NIC Group**, July 2012 to Nov 2012
   * Learn e1000g, S11 NIC PV driver and test scripts, repeat bugs
-  * Mentor: Changqing Li
  
 ## Publications
 #### Conferences, Workshops and Posters
-* **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, **submitted**.
+* Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **Submitted**.
+* Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Software challenges for persistent fabric-attached memory, **OSDI Poster**, 2018.
+* Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **SOCC Poster**, 2018.
+* **Wei Zhang**, Abhigyan Sharma and Timothy Wood. Model-Based Load Balancing for High Performance Network Data Planes, **NSDI Poster**, 2018.
+* **Wei Zhang**, Timothy Chong, John Byrne, Milind Chabbi, Harumi Kuno, Michael Lough, Nic McDonald, Sriram Narasimnhan, Bill Scherer, Rob Schreiber, Tuan Tran, Lorenzo Martinico, Cindy Orazco, Khemraj Shukla. How to Co-Design Chickens and Eggs:A Simulation Environment for HPE Exascale Hardware, **Tech HP Internal Conference**, 2018.
+* **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. **SOSR**, Los Angeles, CA, Mar.2018.
 * Sameer G Kulkarni, **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan, Timothy Wood, Mayutan Arumaithurai and Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, **SIGCOMM**, 2017.
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, **SOSR Poster**, 2017.
 * **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan and Timothy Wood. Flurries: Countless Fine-Grained NFs for Flexible Per-Flow Customization, **Conext**, 2016.
