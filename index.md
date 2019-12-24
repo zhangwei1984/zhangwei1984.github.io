@@ -3,7 +3,7 @@ layout: page
 excerpt: "About Me..."
 ---
 
-I am Wei Zhang, currently a software engineer at Microsoft Azure Networking. 
+I am Wei Zhang, currently a R&D engineer at Microsoft Azure. 
 
 I received my B.S. degree in Human Resource Management from [Hebei University Of Economics & Business](http://www.heuet.edu.cn/) in 2006 and M.S. degree in Computer Science from [Yan Shan University](http://www.ysu.edu.cn/) in 2008. I started my PhD life at [Beihang University](http://www.buaa.edu.cn/) in 2008, advised by [Prof. Mingfa Zhu](http://www.nlsde.buaa.edu.cn/node/160). From November 2012 to October 2014, I participated in an international PhD program as a visitor student at the [George Washington University](http://www.gwu.edu/) and joined the PhD program in January 2015, advised by [Prof. Timothy Wood](http://faculty.cs.gwu.edu/~timwood/wiki/doku.php). I received PhD degree from Beihang University in June 2015. I received my second Phd degree from GWU university at August 2018.
 
