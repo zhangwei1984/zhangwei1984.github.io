@@ -35,7 +35,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * Haris Volos, Kimberly Keeton, Yupu Zhang, Milind Chabbi, Sekwon Lee, Mark Lillibridge, Yuvraj Patel, **Wei Zhang**. Memory-Oriented Distributed Computing at Rack Scale, **SOCC Poster**, 2018.
 * **Wei Zhang**, Abhigyan Sharma and Timothy Wood. Model-Based Load Balancing for High Performance Network Data Planes, **NSDI Poster**, 2018.
 * **Wei Zhang**, Timothy Chong, John Byrne, Milind Chabbi, Harumi Kuno, Michael Lough, Nic McDonald, Sriram Narasimnhan, Bill Scherer, Rob Schreiber, Tuan Tran, Lorenzo Martinico, Cindy Orazco, Khemraj Shukla. How to Co-Design Chickens and Eggs: A Simulation Environment for HPE Exascale Hardware, **Tech HP Internal Conference**, 2018.
-* **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. **SOSR**, Los Angeles, CA, 2018.
+* **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Hardware-assisted Isolation in a Multi-tenant Function-based Dataplane, **SOSR**, Los Angeles, CA, 2018.
 * Sameer G Kulkarni, **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan, Timothy Wood, Mayutan Arumaithurai and Xiaoming Fu. NFVnice: Dynamic Backpressure and Scheduling for NFV Service Chains, **SIGCOMM**, 2017.
 * **Wei Zhang**, Abhigyan Sharma, Kaustubh Joshi and Timothy Wood. Towards an OS for the Network Data Plane with FastPaaS, **SOSR Poster**, 2017.
 * **Wei Zhang**, Jinho Hwang, Shriram Rajagopalan, K.K. Ramakrishnan and Timothy Wood. Flurries: Countless Fine-Grained NFs for Flexible Per-Flow Customization, **Conext**, 2016.
@@ -64,6 +64,11 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * **Wei Zhang**, Mingfa Zhu, Li Ruan, Limin Xiao, Jiajun Liu, Yiduo Mei, Ying Song, Yuzhong Sun. SLA-Driven Adaptive Resource Allocation for Virtualized Servers, **IEICE Trans.** On Information & Systems, Special Section on Parallel and Distributed Computing and Networking, 2012.
 * **Wei Zhang**, Ying Song, Li Ruan, Mingfa Zhu, Limin Xiao. Resource Management in Internet-Oriented Data Centers, **Journal of Software**, 23(2):179-199, 2012.
 * **Wei Zhang**, Huan Wang, Binbin Yu, Wei Xu, Mingfa Zhu, Limin Xiao, Li Ruan. A Request Distribution Algorithm for Web Server Cluster. **Journal of Networks**. 6(12):1760-1766, 2011.
+
+## Services
+* Reviewers: Transactions on Computer Systems, Computer Networks, Transactions on Parallel & Distributed systems, IEEE Network Magazine, Journal of Parallel and Distributed Computing...
+* PPoPP 18, 19 AE Committee member
+
 
 ## Honors and Awards
 #### Student Awards
