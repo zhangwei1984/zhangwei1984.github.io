@@ -63,6 +63,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * **Wei Zhang**, Sundaresan Rajasekaran, Shaohua Duan, Timothy Wood and Mingfa Zhu. Minimizing Interference and Maximizing Progress for Hadoop Virtual Machines, **ACM SIGMETRICS Performance Evaluation Review**, 2015.
 * **Wei Zhang**, Mingfa Zhu, Li Ruan, Limin Xiao, Jiajun Liu, Yiduo Mei, Ying Song, Yuzhong Sun. SLA-Driven Adaptive Resource Allocation for Virtualized Servers, **IEICE Trans.** On Information & Systems, Special Section on Parallel and Distributed Computing and Networking, 2012.
 * **Wei Zhang**, Ying Song, Li Ruan, Mingfa Zhu, Limin Xiao. Resource Management in Internet-Oriented Data Centers, **Journal of Software**, 23(2):179-199, 2012.
+* **Wei Zhang**, Jiajun Liu, Ying Song, Mingfa Zhu, Limin Xiao, Yuzhong Sun, Li Ruan. Dynamic resource allocation based on user experience in virtualized servers, Procedia Engineering, vol 15, 3780-3784.
 * **Wei Zhang**, Huan Wang, Binbin Yu, Wei Xu, Mingfa Zhu, Limin Xiao, Li Ruan. A Request Distribution Algorithm for Web Server Cluster. **Journal of Networks**. 6(12):1760-1766, 2011.
 
 ## Services
