@@ -56,7 +56,7 @@ I received my B.S. degree in Human Resource Management from [Hebei University Of
 * Jinho Hwang, **Wei Zhang**, Ron C. Chiang, Timothy Wood, and H. Howie Huang, UniCache: Hypervisor Managed Data Storage in RAM and Flash, IEEE International Conference on Cloud Computing (**CLOUD**), 2014.
 * **Wei Zhang**, Mingfa Zhu, Yiduo Mei, Limin Xiao, Li Ruan, Tao Gong, Tao Li,Yunwei Gao, Yuzhong Sun. LVMCI:Efficient and Effective VM Live Migration Selection Scheme in Virtualized Data Centers, The 18th IEEE International Conference on Parallel and Distributed Systems (**ICPADS**), 2012.
 * **Wei Zhang**, Mingfa Zhu, Tao Gong, Limin Xiao, Li Ruan, Yiduo Mei, Yuzhong Sun. Performance Degradation-aware Virtual Machine Live Migration in Virtualized Servers. The 13th International Conference on Parallel and Distributed Computing, Applications and Technologies (**PDCAT**), 2012.
-* **Wei Zhang**, Mingfa Zhu, Limin Xiao, Ying Song, Yuzhong Sun. Dynamic Resource Management in Virtualized Servers, the 10th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA**), 2012.
+* **Wei Zhang**, Mingfa Zhu, Limin Xiao, Ying Song, Yuzhong Sun. Autonomic Resource Allocation in Virtualized Data Centers, the 10th IEEE International Symposium on Parallel and Distributed Processing with Applications (**ISPA**), 2012.
 
 #### Journals
 * Timothy Wood , K.K. Ramakrishnan and Jinho Hwang, Guyue Liu and **Wei Zhang**. Towards a Software-Based Network: Integrating Software Defined Networking and Network Function Virtualization. **IEEE Network**, 2015.
